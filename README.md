@@ -8,8 +8,12 @@ I use the New Webkit for google Chrome . I made it for two Languages Arabic(Egyp
 You can See a Demo in Codepen.io Here : 
 http://codepen.io/shorbagy/pen/yVdJzM
 
-I make an addition that you can hear the Spell of the Sentence you write or you speak by clicking button Play 
-Note : It just Work for English Speaking . 
+I make an addition that you can hear the Spell of the Sentence you write or you speak by clicking button Play and I use the ResponsiveVoice Library :
+https://responsivevoice.org/ 
+
+
+# Note : 
+if you want to play this system in your website or computer you should use the Localhost because of the Chrome Security of Not allowing the Microphone .  
  
 
 
